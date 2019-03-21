@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/3/5 17:19:52。
+     1>项目“D:\cpp\AlohaWorld\InClassinitializer\InClassinitializer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\tools\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\cpp\alohaworld\inclassinitializer\main.cpp(12): error C2536: “X::X::arr1”: 无法指定数组的显式初始值设定项
+                 d:\cpp\alohaworld\inclassinitializer\main.cpp(12) : 参见“X::arr1”的声明
+     1>d:\cpp\alohaworld\inclassinitializer\main.cpp(13): error C2536: “X::X::arr2”: 无法指定数组的显式初始值设定项
+                 d:\cpp\alohaworld\inclassinitializer\main.cpp(13) : 参见“X::arr2”的声明
+     1>d:\cpp\alohaworld\inclassinitializer\main.cpp(14): error C2536: “X::X::arr3”: 无法指定数组的显式初始值设定项
+                 d:\cpp\alohaworld\inclassinitializer\main.cpp(14) : 参见“X::arr3”的声明
+     1>已完成生成项目“D:\cpp\AlohaWorld\InClassinitializer\InClassinitializer.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.57

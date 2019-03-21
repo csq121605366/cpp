@@ -26,7 +26,7 @@ int main(){
 	char s5[] = "Aloha"; 
 	cout << static_cast<double>(1) / 2 << endl;
 	cout << static_cast<double>(1 / 2) << endl;
-	
+	char* a = "43534";
 	
 	cin.get();
 	return 0;
